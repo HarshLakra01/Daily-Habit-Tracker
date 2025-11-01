@@ -24,11 +24,6 @@ A streamlined and user-friendly web app designed to help you establish, monitor,
 - MongoDB (Mongoose)  
 - dotenv (environment configuration)  
 
-## 🌐 Live Application
-
-- Frontend: [https://habit-builder-five.vercel.app](https://habit-builder-five.vercel.app)  
-- Backend: [https://habit-builder-ztnv.onrender.com](https://habit-builder-ztnv.onrender.com)
-
 ## 📁 Project Structure
 
 ```bash
